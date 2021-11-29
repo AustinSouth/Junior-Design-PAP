@@ -9,4 +9,5 @@ The Mancode.ino file is the Arduino code to manually controll the bot with
 the remote designed by the team.
 
 The PAP_Code.ino file is the Autonomous code that identifies payload locations
+using break beam sensing and a sorting algorithm 
 and transports them to the drop locations.
